@@ -7,7 +7,11 @@
     <title>git trial</title>
 </head>
 <body>
+    <div class="h1">
     <h1>hello world</h1>
-    
+    </div>
+    <div class="h2">
+        <h2>Trying git</h2>
+    </div>    
 </body>
 </html>
